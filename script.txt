@@ -1,0 +1,10 @@
+Episode 1
+  - Installation of Maven
+    - basic configuration
+      settings.xml
+  - Simple pom.xml example
+    with simple code example
+
+Episode 2
+  - Overview about the Maven life cycle
+  - 
