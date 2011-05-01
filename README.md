@@ -2,6 +2,6 @@ Maven Screen Casts
 ==================
 
 URL:
-mavencasts.com
+http://mavencasts.com
 
 

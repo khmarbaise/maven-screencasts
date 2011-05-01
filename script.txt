@@ -1,10 +1,25 @@
-Episode 1
+- timeframe for episodes: ca. 10 min.
+
+Episode 1:
   - Installation of Maven
     - basic configuration
       settings.xml
+
   - Simple pom.xml example
     with simple code example
 
-Episode 2
+Episode 2:
   - Overview about the Maven life cycle
-  - 
+  - Combination of goals/Life cycle
+
+  - Plugins
+
+  - Configure the first plugin
+    Example: Maven compiler plugin
+
+Episode 3:
+  - We want to run the unit tests
+    Now we need the junit dependency
+  - Take a look onto the scope of the 
+    dependency.
+
