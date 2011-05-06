@@ -1,6 +1,6 @@
 - timeframe for episodes: ca. 10 min.
 
-Episode 1:
+Episode 100:
   - Installation of Maven
     - basic configuration
       settings.xml
@@ -8,7 +8,7 @@ Episode 1:
   - Simple pom.xml example
     with simple code example
 
-Episode 2:
+Episode 110:
   - Overview about the Maven life cycle
   - Combination of goals/Life cycle
 
@@ -17,37 +17,64 @@ Episode 2:
   - Configure the first plugin
     Example: Maven compiler plugin
 
-Episode 3:
+Episode 120:
   - We want to run the unit tests
     Now we need the junit dependency
   - Take a look onto the scope of the 
     dependency.
 
-
-Episode X:
+Episode 130:
   - Episode about Unit Testing
     with Maven
     - maven surefire plugin
     - see MAUI Guide
-    - Multiple calls
-    - Testing an Interface
+      - Multiple calls
+      - Testing an Interface
 
-Episode A:
+Episode 131:
+   - Integration Testing
+     maven-failsafe-plugin
+     - Simple one
+  - container ? (Tomcat, Jetty?)
+
+Episode XXX:
+   - Code Coverage in Unit Tests
+     - coberatura, Emma, ?
+
+Episode XXX:
+   - Code Coverage in Intration Tests
+     - How to ?
+
+Episode XXX:
+  - Maven dependency plugin
+    - what it can?
+    - Copying artifacts during a build
+
+Episode 140:
   - Maven Assembly Plugin
 
-Episode B:
+Episode 150:
   - Maven versions plugin
+    - what it can do?
 
-Episode C:
+Episode 151:
+  - Maven versions plugin
+    - Reporting
+
+Episode 160:
   - Maven RPM Plugin
 
-Episode D:
+Episode 170:
   - Maven Release Plugin
     - How to activate profile by releasePerform
     - How to activate profile during release:prepare
     - Best practices
 
-
-Episode Y:
+Episode 180:
    - Configuration in reportSet => works in build as well
    - Configuration over all.
+
+- Plugins
+  - maven-jar-plugin -> ?
+  - maven-resources-plugin ->
+  - 
