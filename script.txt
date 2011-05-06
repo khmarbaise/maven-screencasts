@@ -23,3 +23,31 @@ Episode 3:
   - Take a look onto the scope of the 
     dependency.
 
+
+Episode X:
+  - Episode about Unit Testing
+    with Maven
+    - maven surefire plugin
+    - see MAUI Guide
+    - Multiple calls
+    - Testing an Interface
+
+Episode A:
+  - Maven Assembly Plugin
+
+Episode B:
+  - Maven versions plugin
+
+Episode C:
+  - Maven RPM Plugin
+
+Episode D:
+  - Maven Release Plugin
+    - How to activate profile by releasePerform
+    - How to activate profile during release:prepare
+    - Best practices
+
+
+Episode Y:
+   - Configuration in reportSet => works in build as well
+   - Configuration over all.
