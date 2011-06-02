@@ -6,7 +6,7 @@
     etc.
   - Project Object Model
 
-  - The "Convention over Configuration" paradigma
+  - The "Convention over Configuration" paradigm
     - layout (folders)
 
   - Coordinates
