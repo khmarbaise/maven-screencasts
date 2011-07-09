@@ -2,7 +2,7 @@
   - Repositories
   - Lifecylce
   - Project Object Model
-  - The "Convention over Configuration" paradigma
+  - The "Convention over Configuration" paradigm
   - Coordinates
   - Folder layout
   - POM Inheritance/aggregation
