@@ -77,4 +77,5 @@ Episode 180:
 - Plugins
   - maven-jar-plugin -> ?
   - maven-resources-plugin ->
-  - 
+  - maven-helper-plugin
+  - maven-nar-plugin ?
