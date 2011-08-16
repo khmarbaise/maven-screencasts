@@ -79,3 +79,4 @@ Episode 180:
   - maven-resources-plugin ->
   - maven-helper-plugin
   - maven-nar-plugin ?
+  - http://code.google.com/p/maven-replacer-plugin/wiki/UsageWithOtherPlugins
