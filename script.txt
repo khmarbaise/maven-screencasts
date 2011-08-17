@@ -79,4 +79,5 @@ Episode 180:
   - maven-resources-plugin ->
   - maven-helper-plugin
   - maven-nar-plugin ?
+  - maven-checksum-plugin (http://nicoulaj.github.com/maven-checksum-plugin/)
   - http://code.google.com/p/maven-replacer-plugin/wiki/UsageWithOtherPlugins
