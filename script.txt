@@ -39,11 +39,11 @@ Episode 131:
 
 Episode XXX:
    - Code Coverage in Unit Tests
-     - coberatura, Emma, ?
+     - coberatura, Emma, ? JaCoCo
 
 Episode XXX:
    - Code Coverage in Intration Tests
-     - How to ?
+     - How to ? (JaCoCo?)
 
 Episode XXX:
   - Maven dependency plugin
@@ -81,3 +81,6 @@ Episode 180:
   - maven-nar-plugin ?
   - maven-checksum-plugin (http://nicoulaj.github.com/maven-checksum-plugin/)
   - http://code.google.com/p/maven-replacer-plugin/wiki/UsageWithOtherPlugins
+
+- Packaging etc. with maven-assembly-plugin
+  - see supose-cli ?
