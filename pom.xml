@@ -95,4 +95,10 @@
     </profile>
   </profiles>
 
+  <distributionManagement>
+    <site>
+      <id>mavencasts.com</id>
+      <url>scp://h5593.serverkompetenz.net:/usr/local/vhosts/www.mavencasts.com/</url>
+    </site>
+  </distributionManagement>
 </project>
