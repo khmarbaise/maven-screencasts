@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
 
-    The Maven Screen Casts
+    The Maven Screencasts
 
     Copyright (c) 2012 by SoftwareEntwicklung Beratung Schulung (SoEBeS)
     Copyright (c) 2012 by Karl Heinz Marbaise
@@ -11,7 +11,7 @@
   xmlns="http://maven.apache.org/DECORATION/1.0.0"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/DECORATION/1.0.0 http://maven.apache.org/xsd/decoration-1.0.0.xsd"
-  name="Maven Screen Casts">
+  name="Maven Screencasts">
 
  <skin>
     <groupId>org.apache.maven.skins</groupId>

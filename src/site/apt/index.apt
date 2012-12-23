@@ -1,5 +1,5 @@
 ~~
-~~ The Maven Screen Casts
+~~ The Maven Screencasts
 ~~
 ~~ Copyright (c) 2012 by SoftwareEntwicklung Beratung Schulung (SoEBeS)
 ~~ Copyright (c) 2012 by Karl Heinz Marbaise
@@ -8,7 +8,7 @@
 
 Introduction
 
-  This is the <The Maven Screen Casts> which is intended
+  This is the <The Maven Screencasts> which is intended
   to show the usuage of Maven during the usual life of Java software project.
   Furthermore it's intention is to show how could requirements can solved
   via the <<<Maven Ways>>>.

@@ -1,4 +1,4 @@
-Maven Screen Casts
+Maven Screencasts
 ==================
 
 URL:
