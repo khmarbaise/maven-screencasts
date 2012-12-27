@@ -27,6 +27,9 @@
       <menu name="Episodes">
         <item name="Download &amp; Installation" href="episode-100.html"/>
       </menu>
+      <menu name="Episode 200">
+        <item name="Overview" href="episodes/200/overview.html"/>
+      </menu>
       <menu name="Maven Plugin Integration Tests">
         <item name="Overview" href="overview-mp-it.html"/>
         <item name="Basic Source Example" href="mp-it-source-example.html"/>

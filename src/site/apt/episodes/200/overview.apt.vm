@@ -1,0 +1,30 @@
+~~
+~~ The Maven Screencasts
+~~
+~~ Copyright (c) 2012 by SoftwareEntwicklung Beratung Schulung (SoEBeS)
+~~ Copyright (c) 2012 by Karl Heinz Marbaise
+~~
+
+  ------
+  Episode 200
+  ------
+  Karl Heinz Marbaise
+  ------
+  27. December 2012
+  ------
+
+Episode Overview
+
+
+ The scenario is given as a build which should be made
+ available for different environments like production,
+ test and development.
+
+ The question in such situation is: How to solve this?
+ Are profiles the right approach? Or does exist a better
+ solution?
+
+
+
+  []
+#
