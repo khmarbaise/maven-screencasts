@@ -22,7 +22,7 @@
   <custom>
     <fluidoSkin>
       <topBarEnabled>true</topBarEnabled>
-      <sideBarEnabled>true</sideBarEnabled>
+      <sideBarEnabled>false</sideBarEnabled>
     </fluidoSkin>
   </custom>
 
