@@ -4,3 +4,4 @@ nbactions.xml
 .settings
 target
 test-output
+.*.swp
