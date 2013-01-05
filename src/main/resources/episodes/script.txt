@@ -1,0 +1,86 @@
+- timeframe for episodes: ca. 10 min.
+
+Episode 100:
+  - Installation of Maven
+    - basic configuration
+      settings.xml
+
+  - Simple pom.xml example
+    with simple code example
+
+Episode 110:
+  - Overview about the Maven life cycle
+  - Combination of goals/Life cycle
+
+  - Plugins
+
+  - Configure the first plugin
+    Example: Maven compiler plugin
+
+Episode 120:
+  - We want to run the unit tests
+    Now we need the junit dependency
+  - Take a look onto the scope of the 
+    dependency.
+
+Episode 130:
+  - Episode about Unit Testing
+    with Maven
+    - maven surefire plugin
+    - see MAUI Guide
+      - Multiple calls
+      - Testing an Interface
+
+Episode 131:
+   - Integration Testing
+     maven-failsafe-plugin
+     - Simple one
+  - container ? (Tomcat, Jetty?)
+
+Episode XXX:
+   - Code Coverage in Unit Tests
+     - coberatura, Emma, ? JaCoCo
+
+Episode XXX:
+   - Code Coverage in Intration Tests
+     - How to ? (JaCoCo?)
+
+Episode XXX:
+  - Maven dependency plugin
+    - what it can?
+    - Copying artifacts during a build
+
+Episode 140:
+  - Maven Assembly Plugin
+
+Episode 150:
+  - Maven versions plugin
+    - what it can do?
+
+Episode 151:
+  - Maven versions plugin
+    - Reporting
+
+Episode 160:
+  - Maven RPM Plugin
+
+Episode 170:
+  - Maven Release Plugin
+    - How to activate profile by releasePerform
+    - How to activate profile during release:prepare
+    - Best practices
+
+Episode 180:
+   - Configuration in reportSet => works in build as well
+   - Configuration over all.
+
+- Plugins
+  - maven-jar-plugin -> ?
+  - maven-resources-plugin ->
+  - maven-helper-plugin
+  - maven-nar-plugin ?
+  - maven-checksum-plugin (http://nicoulaj.github.com/maven-checksum-plugin/)
+  - http://code.google.com/p/maven-replacer-plugin/wiki/UsageWithOtherPlugins
+
+- Packaging etc. with maven-assembly-plugin
+  - see supose-cli ?

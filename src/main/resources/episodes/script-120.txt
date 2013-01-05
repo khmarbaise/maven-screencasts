@@ -1,0 +1,11 @@
+Timeframe for episodes: ca. 10 min.
+
+Episode 120:
+  - Start with a small project which
+    contains a simple class
+    Create a unit test.
+
+  - We want to run the unit tests
+    Now we need the junit dependency
+  - Take a look onto the scope of the 
+    dependency.

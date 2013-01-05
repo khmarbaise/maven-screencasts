@@ -1,0 +1,19 @@
+Timeframe for episodes: ca. 10 min.
+
+Episode 100:
+  - Installation of Maven
+    - Download Maven from Maven homepage
+    - Check if we have correctly installed Java
+      JDK 5++
+      JAVA_HOME!
+    - Basic Check of Maven 3.0.X
+      mvn --version ?
+
+    - Do we need a configuration in settings.xml ?
+      No we don't.
+
+  - 
+
+  - Simple pom.xml example
+    with simple code example
+
