@@ -1,0 +1,10 @@
+Timeframe for episodes: ca. 10 min.
+
+Episode 300:
+  - Created base project with two or three profiles which
+    represent prod, test, dev environment.
+  - Show using of them and what the problems are with release etc.
+
+  - Firth though using profiles.
+
+  - final solution shows how to solve the problem with serveral environments.

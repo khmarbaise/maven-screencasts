@@ -74,6 +74,12 @@ Episode 180:
    - Configuration in reportSet => works in build as well
    - Configuration over all.
 
+
+Episode 300:
+   - Multiple environments like test, prod, dev
+     How to create war files for different environments.
+     Why not using profiles? What's the solution?
+
 - Plugins
   - maven-jar-plugin -> ?
   - maven-resources-plugin ->
