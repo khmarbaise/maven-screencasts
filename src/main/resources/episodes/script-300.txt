@@ -5,6 +5,7 @@ Episode 300:
     represent prod, test, dev environment.
   - Show using of them and what the problems are with release etc.
 
-  - Firth though using profiles.
+  - First though using profiles.
 
+  - Use a different approach to solve the problem.
   - final solution shows how to solve the problem with serveral environments.

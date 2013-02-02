@@ -13,14 +13,9 @@
   <groupId>com.soebes.maven.screencasts.episode.120</groupId>
   <artifactId>episode-120</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <packaging>jar</packaging>
 
   <name>episode-120</name>
   <url>http://maven.apache.org</url>
-
-  <properties>
-    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-  </properties>
 
   <dependencies>
     <dependency>

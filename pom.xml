@@ -8,7 +8,7 @@
   <parent>
     <groupId>com.soebes.smpp</groupId>
     <artifactId>smpp</artifactId>
-    <version>0.5</version>
+    <version>0.6</version>
   </parent>
 
   <artifactId>maven-casts</artifactId>
@@ -19,8 +19,8 @@
   <description>Maven Casts</description>
 
   <properties>
-    <surefireVersion>2.12.4</surefireVersion>
-    <failsafeVersion>2.12.4</failsafeVersion>
+    <surefireVersion>2.13</surefireVersion>
+    <failsafeVersion>2.13</failsafeVersion>
   </properties>
 
   <build>
