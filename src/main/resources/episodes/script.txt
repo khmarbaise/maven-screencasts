@@ -81,7 +81,11 @@ Episode 300:
      Why not using profiles? What's the solution?
 
 - Plugins
-  - maven-jar-plugin -> ?
+
+Episode 200:
+  - maven-jar-plugin
+    -> Supplemental jar which is different than the default.
+
   - maven-resources-plugin ->
   - maven-helper-plugin
   - maven-nar-plugin ?

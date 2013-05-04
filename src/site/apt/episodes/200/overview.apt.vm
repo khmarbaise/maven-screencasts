@@ -1,8 +1,8 @@
 ~~
 ~~ The Maven Screencasts
 ~~
-~~ Copyright (c) 2012 by SoftwareEntwicklung Beratung Schulung (SoEBeS)
-~~ Copyright (c) 2012 by Karl Heinz Marbaise
+~~ Copyright (c) 2012, 2013 by SoftwareEntwicklung Beratung Schulung (SoEBeS)
+~~ Copyright (c) 2012, 2013 by Karl Heinz Marbaise
 ~~
 
   ------
@@ -10,20 +10,21 @@
   ------
   Karl Heinz Marbaise
   ------
-  27. December 2012
+  04. Mai 2013
   ------
 
 Episode Overview
 
 
- The scenario is given as a build which should be made
- available for different environments like production,
- test and development.
+ The often found problem is having a project which creates
+ jar file. So far so good, but it comes out that someone
+ needs a second jar which does not contain particular files
+ of the project.
 
- The question in such situation is: How to solve this?
- Are profiles the right approach? Or does exist a better
- solution?
-
+ So the question is how to solve such problem? At the
+ first glance it might be a good idea to use a profile
+ to solve this, but profiles having drawbacks in this
+ relationship so better go into an other direction.
 
 
   []
