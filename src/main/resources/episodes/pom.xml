@@ -15,6 +15,7 @@
   <modules>
     <module>100</module>
     <module>120</module>
+    <module>200</module>
     <module>300</module>
   </modules>
 </project>
