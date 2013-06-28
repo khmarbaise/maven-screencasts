@@ -1,0 +1,4 @@
+Timeframe for episodes: ca. 10 min.
+
+Episode 210:
+  - JavaDoc and aggregate for a multi module build.

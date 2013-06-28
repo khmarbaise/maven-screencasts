@@ -34,6 +34,7 @@
       <menu name="Episodes">
         <item name="Download &amp; Installation" href="episodes/100/overview.html"/>
         <item name="Integration Test" href="episodes/200/overview.html"/>
+        <item name="JavaDoc" href="episodes/210/overview.html"/>
       </menu>
   </body>
 </project>

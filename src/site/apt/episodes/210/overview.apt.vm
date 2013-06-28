@@ -1,0 +1,28 @@
+~~
+~~ The Maven Screencasts
+~~
+~~ Copyright (c) 2012, 2013 by SoftwareEntwicklung Beratung Schulung (SoEBeS)
+~~ Copyright (c) 2012, 2013 by Karl Heinz Marbaise
+~~
+
+  ------
+  Episode 210
+  ------
+  Karl Heinz Marbaise
+  ------
+  28. Junit 2013
+  ------
+
+Episode Overview
+
+
+ One of the usual problems is having a multi module
+ build where you like to create javadoc from during
+ the site generation.
+
+ The interesting thing is how to create an 
+ aggregated JavaDoc for all submodules in a simple way.
+
+
+  []
+#
